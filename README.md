@@ -1,0 +1,2 @@
+# WebRichTextUglifier
+Non-BBCode Edition
